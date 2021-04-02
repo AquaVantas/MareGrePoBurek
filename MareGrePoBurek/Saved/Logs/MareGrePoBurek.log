@@ -2181,3 +2181,134 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.02-07.49.02:326][363]LogSavePackage: Moving '../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Saved/BP_BottomDrawersC7A7D0DE410D9F2886EFCABAAC374C7F.tmp' to '../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Content/Models/BP_BottomDrawers.uasset'
 [2021.04.02-07.49.02:345][363]AssetCheck: New page: Asset Save: BP_BottomDrawers
 [2021.04.02-07.49.02:345][363]LogContentValidation: Display: Validating Blueprint /Game/Models/BP_BottomDrawers.BP_BottomDrawers
+[2021.04.02-07.56.45:329][ 66]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.56.48:267][206]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.56.49:930][261]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.57.06:356][ 97]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.57.06:370][ 97]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/BP_KitchenFridgeIGuess.BP_KitchenFridgeIGuess
+[2021.04.02-07.57.30:780][120]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.57.42:124][771]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.58.01:016][813]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.58.08:773][248]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.58.11:368][389]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.58.17:914][772]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.58.20:216][866]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.58.23:587][ 36]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.58.35:945][774]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.58.51:394][650]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.58.53:370][745]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.58.57:160][931]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.59.04:281][336]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.59.09:461][624]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.59.10:761][691]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.59.17:780][ 67]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.59.19:272][123]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.59.22:420][290]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.59.26:686][537]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.59.29:390][691]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.59.30:751][758]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.59.42:772][443]BlueprintLog: New page: Compile BP_BottomDrawers
+[2021.04.02-07.59.42:853][443]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2021.04.02-07.59.44:594][525]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.59.50:828][896]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-07.59.54:743][150]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.00.04:264][766]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.00.08:315][ 29]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.00.10:217][145]BlueprintLog: New page: Compile BP_BottomDrawers
+[2021.04.02-08.00.10:283][145]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2021.04.02-08.00.10:726][166]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.00.10:758][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BP_BottomDrawers" FILE="../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Content/Models/BP_BottomDrawers.uasset" SILENT=true
+[2021.04.02-08.00.10:793][166]LogSavePackage: Moving '../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Saved/BP_BottomDrawers5039562C472BCC4E2FCB3DA136643C80.tmp' to '../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Content/Models/BP_BottomDrawers.uasset'
+[2021.04.02-08.00.10:832][166]AssetCheck: New page: Asset Save: BP_BottomDrawers
+[2021.04.02-08.00.10:832][166]LogContentValidation: Display: Validating Blueprint /Game/Models/BP_BottomDrawers.BP_BottomDrawers
+[2021.04.02-08.00.16:267][452]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.00.17:325][503]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.00.21:869][766]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.00.44:469][  6]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.00.45:295][ 41]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.00.58:490][785]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.00.59:296][821]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.01.09:429][405]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.01.10:771][472]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.01.16:373][783]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.01.24:989][250]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.01.25:677][277]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.01.37:728][873]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.02.01:533][120]BlueprintLog: New page: Compile BP_BottomDrawers
+[2021.04.02-08.02.01:604][120]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2021.04.02-08.02.17:252][955]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.02.19:033][ 31]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.02.34:866][824]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.02.42:461][223]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.02.43:709][279]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.02.45:131][343]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.02.46:881][426]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.02.47:958][466]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.02.52:620][698]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.02.54:480][787]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.02.56:290][876]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.03.00:323][ 71]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.03.00:852][ 86]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.03.08:955][464]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.03.24:760][218]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.03.28:399][388]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.03.30:305][462]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.03.40:121][928]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.03.43:110][ 63]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.03.50:829][400]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.03.51:494][420]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.04.02:454][882]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.04.09:345][216]BlueprintLog: New page: Compile BP_BottomDrawers
+[2021.04.02-08.04.09:410][216]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2021.04.02-08.04.10:182][247]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.04.10:214][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BP_BottomDrawers" FILE="../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Content/Models/BP_BottomDrawers.uasset" SILENT=true
+[2021.04.02-08.04.10:260][247]LogSavePackage: Moving '../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Saved/BP_BottomDrawersA899DEDE45C39048C11107A0B67DEEB5.tmp' to '../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Content/Models/BP_BottomDrawers.uasset'
+[2021.04.02-08.04.10:277][247]AssetCheck: New page: Asset Save: BP_BottomDrawers
+[2021.04.02-08.04.10:277][247]LogContentValidation: Display: Validating Blueprint /Game/Models/BP_BottomDrawers.BP_BottomDrawers
+[2021.04.02-08.08.07:571][530]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.08.08:982][589]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.08.20:027][ 70]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.08.27:460][424]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.08.30:118][548]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.08.31:799][622]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.08.34:157][735]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.08.35:564][792]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.08.41:643][ 67]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.08.43:196][132]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.08.48:177][348]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.08.52:192][528]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.08.53:299][571]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.08.59:904][881]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.09.01:228][928]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.09.05:360][ 99]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.09.07:211][178]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.09.07:637][188]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.09.11:748][357]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.09.16:650][560]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.09.17:369][579]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.09.27:858][ 10]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.09.28:573][ 32]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.09.38:952][449]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.09.41:003][532]BlueprintLog: New page: Compile BP_BottomDrawers
+[2021.04.02-08.09.41:072][532]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2021.04.02-08.09.41:778][554]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.09.41:819][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BP_BottomDrawers" FILE="../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Content/Models/BP_BottomDrawers.uasset" SILENT=true
+[2021.04.02-08.09.41:871][554]LogSavePackage: Moving '../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Saved/BP_BottomDrawersC44045AD4EECDD3C705513B22A9AAE63.tmp' to '../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Content/Models/BP_BottomDrawers.uasset'
+[2021.04.02-08.09.41:894][554]AssetCheck: New page: Asset Save: BP_BottomDrawers
+[2021.04.02-08.09.41:894][554]LogContentValidation: Display: Validating Blueprint /Game/Models/BP_BottomDrawers.BP_BottomDrawers
+[2021.04.02-08.09.59:046][349]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.09.59:073][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BP_BottomDrawers" FILE="../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Content/Models/BP_BottomDrawers.uasset" SILENT=true
+[2021.04.02-08.09.59:116][349]LogSavePackage: Moving '../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Saved/BP_BottomDrawers75E79CB348C6C3534E2FA784AAAD64F7.tmp' to '../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Content/Models/BP_BottomDrawers.uasset'
+[2021.04.02-08.09.59:140][349]AssetCheck: New page: Asset Save: BP_BottomDrawers
+[2021.04.02-08.09.59:140][349]LogContentValidation: Display: Validating Blueprint /Game/Models/BP_BottomDrawers.BP_BottomDrawers
+[2021.04.02-08.10.10:605][862]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.04.02-08.10.10:605][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.02-08.10.14:629][110]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.02-08.10.14:659][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Kitchen" FILE="../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Content/Models/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.02-08.10.14:747][110]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2021.04.02-08.10.14:786][110]LogSavePackage: Moving '../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Saved/Kitchen95EC11794D2AC015BEEFD79BFBF64CD4.tmp' to '../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Content/Models/Kitchen.umap'
+[2021.04.02-08.10.14:824][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Kitchen_BuiltData" FILE="../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Content/Models/Kitchen_BuiltData.uasset" SILENT=true
+[2021.04.02-08.10.14:874][110]LogSavePackage: Moving '../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Saved/Kitchen_BuiltData3F1DBDBD449326F2346645852407897B.tmp' to '../../../../../../Users/Aqua/Documents/Unreal Projects/MareGrePoBurek/Content/Models/Kitchen_BuiltData.uasset'
+[2021.04.02-08.10.14:896][110]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.02-08.10.14:896][110]LogContentValidation: Display: Validating World /Game/Models/Kitchen.Kitchen
+[2021.04.02-08.10.14:896][110]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Models/Kitchen_BuiltData.Kitchen_BuiltData
